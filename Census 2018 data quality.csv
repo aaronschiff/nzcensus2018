@@ -1,0 +1,59 @@
+﻿Category,Variable name,EDQP quality rating,Stats NZ quality rating
+People,Absentees,Very poor,Very poor
+People,Activity limitations,N/A,Poor
+People,Age,Very high,Very high
+People,Census night population count,Moderate,Moderate
+People,Census usually resident population count,Very high,Very high
+People,Cigarette smoking behaviour,Moderate/Poor,Moderate
+People,Birthplace,High,High
+People,Educational institution address,N/A,Moderate
+People,Ethnicity,Moderate,High
+People,Families and households: extended family type,Very poor,Very poor
+People,Families and households: family type,Very poor,Very poor
+People,Families and households: household composision,Very poor,Very poor
+People,Hours worked in employment per week,Moderate/Poor,Moderate
+People,Individual home ownership,N/A,Poor
+People,Industry,High,High
+People,Iwi,Very poor,Very poor
+People,Languages spoken,Very high to poor,High
+People,Main means of travel to education,Moderate,Moderate
+People,Main means of travel to work,Poor,Moderate
+People,Maori descent - output,High,High
+People,Maori descent - electoral,High,High
+People,Number of children born,N/A,Moderate
+People,Occupation,Poor,Moderate
+People,Qualifications: highest qualification,Moderate/Poor,Moderate
+People,Qualifications: highest secondary school qualification,Moderate/Poor,Moderate
+People,Qualifications: post-school qualification level of attainment,Moderate/Poor,Moderate
+People,Qualifications: post-school qualification field of study,N/A,Poor
+People,"Relationship status: Legally registered relationship status, and partnership status in current relationship",N/A,Poor
+People,Religious affiliation,High,High
+People,Sector of ownership,N/A,Moderate
+People,Sex,Very high,Very high
+People,Sources of personal income,High,High
+People,Status in employment,Moderate,Moderate
+People,Study participation,Moderate/Poor,High
+People,Total personal income,High,High
+People,Unpaid activities,N/A,Poor
+People,Usual residence address,High,High
+People,Usual residence one year ago,N/A,Poor
+People,Usual residence five years ago,Poor,Poor
+People,Work and labour force status,Moderate,Moderate
+People,Workplace address,N/A,Moderate
+People,Years at usual residence,N/A,Poor
+People,Years since arrival in New Zealand,Moderate,Moderate
+Dwellings,Access to telecommunication systems,Moderate,Moderate
+Dwellings,Census night address,Moderate,Moderate
+Dwellings,Counts of dwellings,High,High
+Dwellings,Dwelling occupancy status,N/A,N/A
+Dwellings,Dwelling type,Poor,Moderate
+Dwellings,Housing quality: access to basic amenities,Moderate,Moderate
+Dwellings,Housing quality: dwelling dampness indicator,Moderate,Moderate
+Dwellings,Housing quality: dwelling mould indicator,Moderate,Moderate
+Dwellings,Main types of heating and fuel types used to heat dwellings,Moderate,Moderate
+Dwellings,Number of bedrooms,High,High
+Dwellings,Number of rooms,Poor,Poor
+Dwellings,Number of motor vehicles,Moderate,Moderate
+Dwellings,Sector of landlord,N/A,High
+Dwellings,Tenure of household,Moderate,Moderate
+Dwellings,Weekly rent paid by household,N/A,Moderate
